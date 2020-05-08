@@ -1,2 +1,2 @@
 # jvmeye
-A Simple JVM Checker
+A Simple JVM Monitor
